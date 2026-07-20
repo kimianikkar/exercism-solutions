@@ -24,6 +24,7 @@ Which expression raises an exception?
 
 Answer:
 max([1, 2, "three"]) raises a TypeError because python cannot compare integers and strings.
+
 """
 
 print(min(["a" , "b", "c"])) # Output: a
